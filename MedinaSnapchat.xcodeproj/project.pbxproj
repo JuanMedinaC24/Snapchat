@@ -7,23 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D852C6C02A3391140051FAB8 /* capibara-2.png in Resources */ = {isa = PBXBuildFile; fileRef = D852C6BF2A3391140051FAB8 /* capibara-2.png */; };
+		D852C6C22A3393AC0051FAB8 /* ElegirUsuarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D852C6C12A3393AC0051FAB8 /* ElegirUsuarioViewController.swift */; };
+		D852C6C62A339C950051FAB8 /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = D852C6C52A339C950051FAB8 /* Usuario.swift */; };
+		D893F67F2A39FDDA00EF6999 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = D893F67E2A39FDDA00EF6999 /* Snap.swift */; };
+		D893F6812A3A044200EF6999 /* VerSnapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D893F6802A3A044200EF6999 /* VerSnapViewController.swift */; };
+		D895C90A2A30C18D008D4909 /* SnapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D895C9092A30C18D008D4909 /* SnapsViewController.swift */; };
+		D895C90C2A30C646008D4909 /* ImagenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D895C90B2A30C646008D4909 /* ImagenViewController.swift */; };
+		D8AF676D2A29090E005756A6 /* telefonoSesionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8AF676C2A29090E005756A6 /* telefonoSesionViewController.swift */; };
 		D8B530C42A278E0C00EB5619 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B530C32A278E0C00EB5619 /* AppDelegate.swift */; };
 		D8B530C62A278E0C00EB5619 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B530C52A278E0C00EB5619 /* SceneDelegate.swift */; };
-		D8B530C82A278E0C00EB5619 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B530C72A278E0C00EB5619 /* ViewController.swift */; };
+		D8B530C82A278E0C00EB5619 /* iniciarSesionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B530C72A278E0C00EB5619 /* iniciarSesionViewController.swift */; };
 		D8B530CB2A278E0C00EB5619 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8B530C92A278E0C00EB5619 /* Main.storyboard */; };
 		D8B530CD2A278E0E00EB5619 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B530CC2A278E0E00EB5619 /* Assets.xcassets */; };
 		D8B530D02A278E0E00EB5619 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8B530CE2A278E0E00EB5619 /* LaunchScreen.storyboard */; };
+		D8B530D82A2790A000EB5619 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D8B530D72A2790A000EB5619 /* GoogleService-Info.plist */; };
+		FD8EF847835B399557197E3C /* Pods_MedinaSnapchat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 631E73AF67555EF9BF911CE7 /* Pods_MedinaSnapchat.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1754AB47FA85CC71CB4FCF6C /* Pods-MedinaSnapchat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MedinaSnapchat.debug.xcconfig"; path = "Target Support Files/Pods-MedinaSnapchat/Pods-MedinaSnapchat.debug.xcconfig"; sourceTree = "<group>"; };
+		631E73AF67555EF9BF911CE7 /* Pods_MedinaSnapchat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MedinaSnapchat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		82A8CDEC48860FC76D05CDA0 /* Pods-MedinaSnapchat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MedinaSnapchat.release.xcconfig"; path = "Target Support Files/Pods-MedinaSnapchat/Pods-MedinaSnapchat.release.xcconfig"; sourceTree = "<group>"; };
+		D852C6BF2A3391140051FAB8 /* capibara-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "capibara-2.png"; sourceTree = "<group>"; };
+		D852C6C12A3393AC0051FAB8 /* ElegirUsuarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegirUsuarioViewController.swift; sourceTree = "<group>"; };
+		D852C6C52A339C950051FAB8 /* Usuario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
+		D893F67E2A39FDDA00EF6999 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
+		D893F6802A3A044200EF6999 /* VerSnapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerSnapViewController.swift; sourceTree = "<group>"; };
+		D895C9092A30C18D008D4909 /* SnapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapsViewController.swift; sourceTree = "<group>"; };
+		D895C90B2A30C646008D4909 /* ImagenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagenViewController.swift; sourceTree = "<group>"; };
+		D8AF676C2A29090E005756A6 /* telefonoSesionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = telefonoSesionViewController.swift; sourceTree = "<group>"; };
 		D8B530C02A278E0C00EB5619 /* MedinaSnapchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MedinaSnapchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B530C32A278E0C00EB5619 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8B530C52A278E0C00EB5619 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D8B530C72A278E0C00EB5619 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D8B530C72A278E0C00EB5619 /* iniciarSesionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iniciarSesionViewController.swift; sourceTree = "<group>"; };
 		D8B530CA2A278E0C00EB5619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D8B530CC2A278E0E00EB5619 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8B530CF2A278E0E00EB5619 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8B530D12A278E0E00EB5619 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8B530D72A2790A000EB5619 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +53,49 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD8EF847835B399557197E3C /* Pods_MedinaSnapchat.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96E72882EA143F3FDF44BD33 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				631E73AF67555EF9BF911CE7 /* Pods_MedinaSnapchat.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D852C6C32A339C0F0051FAB8 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D895C90B2A30C646008D4909 /* ImagenViewController.swift */,
+				D895C9092A30C18D008D4909 /* SnapsViewController.swift */,
+				D8B530C72A278E0C00EB5619 /* iniciarSesionViewController.swift */,
+				D852C6C12A3393AC0051FAB8 /* ElegirUsuarioViewController.swift */,
+				D893F6802A3A044200EF6999 /* VerSnapViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D852C6C42A339C6F0051FAB8 /* Modelos */ = {
+			isa = PBXGroup;
+			children = (
+				D852C6C52A339C950051FAB8 /* Usuario.swift */,
+				D893F67E2A39FDDA00EF6999 /* Snap.swift */,
+			);
+			path = Modelos;
+			sourceTree = "<group>";
+		};
 		D8B530B72A278E0C00EB5619 = {
 			isa = PBXGroup;
 			children = (
 				D8B530C22A278E0C00EB5619 /* MedinaSnapchat */,
 				D8B530C12A278E0C00EB5619 /* Products */,
+				DCEE172DDE6878C483029A68 /* Pods */,
+				96E72882EA143F3FDF44BD33 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +110,28 @@
 		D8B530C22A278E0C00EB5619 /* MedinaSnapchat */ = {
 			isa = PBXGroup;
 			children = (
+				D852C6C42A339C6F0051FAB8 /* Modelos */,
+				D852C6C32A339C0F0051FAB8 /* ViewControllers */,
 				D8B530C32A278E0C00EB5619 /* AppDelegate.swift */,
 				D8B530C52A278E0C00EB5619 /* SceneDelegate.swift */,
-				D8B530C72A278E0C00EB5619 /* ViewController.swift */,
+				D8AF676C2A29090E005756A6 /* telefonoSesionViewController.swift */,
 				D8B530C92A278E0C00EB5619 /* Main.storyboard */,
 				D8B530CC2A278E0E00EB5619 /* Assets.xcassets */,
+				D852C6BF2A3391140051FAB8 /* capibara-2.png */,
 				D8B530CE2A278E0E00EB5619 /* LaunchScreen.storyboard */,
+				D8B530D72A2790A000EB5619 /* GoogleService-Info.plist */,
 				D8B530D12A278E0E00EB5619 /* Info.plist */,
 			);
 			path = MedinaSnapchat;
+			sourceTree = "<group>";
+		};
+		DCEE172DDE6878C483029A68 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1754AB47FA85CC71CB4FCF6C /* Pods-MedinaSnapchat.debug.xcconfig */,
+				82A8CDEC48860FC76D05CDA0 /* Pods-MedinaSnapchat.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +141,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D8B530D42A278E0E00EB5619 /* Build configuration list for PBXNativeTarget "MedinaSnapchat" */;
 			buildPhases = (
+				99419DE701FB5CAE4AECA86D /* [CP] Check Pods Manifest.lock */,
 				D8B530BC2A278E0C00EB5619 /* Sources */,
 				D8B530BD2A278E0C00EB5619 /* Frameworks */,
 				D8B530BE2A278E0C00EB5619 /* Resources */,
+				A1ECE3E66A0D4A8F826F79C3 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -111,6 +180,11 @@
 				Base,
 			);
 			mainGroup = D8B530B72A278E0C00EB5619;
+			packageReferences = (
+				D852C6C72A339D9B0051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				D852C6C82A339DCF0051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				D852C6C92A339E380051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = D8B530C12A278E0C00EB5619 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,6 +199,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8B530D82A2790A000EB5619 /* GoogleService-Info.plist in Resources */,
+				D852C6C02A3391140051FAB8 /* capibara-2.png in Resources */,
 				D8B530D02A278E0E00EB5619 /* LaunchScreen.storyboard in Resources */,
 				D8B530CD2A278E0E00EB5619 /* Assets.xcassets in Resources */,
 				D8B530CB2A278E0C00EB5619 /* Main.storyboard in Resources */,
@@ -133,12 +209,61 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		99419DE701FB5CAE4AECA86D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MedinaSnapchat-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A1ECE3E66A0D4A8F826F79C3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MedinaSnapchat/Pods-MedinaSnapchat-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MedinaSnapchat/Pods-MedinaSnapchat-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MedinaSnapchat/Pods-MedinaSnapchat-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D8B530BC2A278E0C00EB5619 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8B530C82A278E0C00EB5619 /* ViewController.swift in Sources */,
+				D852C6C62A339C950051FAB8 /* Usuario.swift in Sources */,
+				D852C6C22A3393AC0051FAB8 /* ElegirUsuarioViewController.swift in Sources */,
+				D893F67F2A39FDDA00EF6999 /* Snap.swift in Sources */,
+				D895C90A2A30C18D008D4909 /* SnapsViewController.swift in Sources */,
+				D893F6812A3A044200EF6999 /* VerSnapViewController.swift in Sources */,
+				D8B530C82A278E0C00EB5619 /* iniciarSesionViewController.swift in Sources */,
+				D8AF676D2A29090E005756A6 /* telefonoSesionViewController.swift in Sources */,
+				D895C90C2A30C646008D4909 /* ImagenViewController.swift in Sources */,
 				D8B530C42A278E0C00EB5619 /* AppDelegate.swift in Sources */,
 				D8B530C62A278E0C00EB5619 /* SceneDelegate.swift in Sources */,
 			);
@@ -282,6 +407,7 @@
 		};
 		D8B530D52A278E0E00EB5619 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1754AB47FA85CC71CB4FCF6C /* Pods-MedinaSnapchat.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -309,6 +435,7 @@
 		};
 		D8B530D62A278E0E00EB5619 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82A8CDEC48860FC76D05CDA0 /* Pods-MedinaSnapchat.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -356,6 +483,33 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D852C6C72A339D9B0051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		D852C6C82A339DCF0051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		D852C6C92A339E380051FAB8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = D8B530B82A278E0C00EB5619 /* Project object */;
 }
